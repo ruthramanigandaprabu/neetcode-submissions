@@ -1,4 +1,5 @@
-# NeetCode Solutions — @ruthramanigandaprabu-blip
+# NeetCode Solutions — @ruthramanigandaprabu
+
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
